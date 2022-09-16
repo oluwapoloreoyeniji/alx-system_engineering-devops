@@ -12,3 +12,4 @@ The script: 8-James_Bond sets the permission to the file: hello as follows:
 - Other users: all the permissions
 The script: 9-John_Doe sets the mode of the file hello to: -rwxr-x-wx
 The script: 10-mirror_permissions sets the mode of the file: hello the same as olleh's mode 
+The script: 11-directories_permission adds execute permission to all subdirectories of the current directory of the owner, the group owner and all other users. Regular files should not be changed
